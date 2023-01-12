@@ -10,9 +10,9 @@ Please refer to the latter for all information concerning the methods used.
 
 This repository includes thoroughly annotated Jupyter notebooks and R scripts covering:
 
-- Differential Expression Analysis;
-- Framework for hybrid modeling;
-- Identification of regulatory molecular drivers through knock-out/knock-in simulations. 
+- Differential expression analysis of CAFs-S1 vs. CAFs-S4 RNA-Seq data to extract breast CAF-specific initial conditions;
+- Framework for generating a hybrid model coupling an asynchronous regulatory Boolean network with a constraint-based reconstruction of human central metabolism;
+- Identification of regulatory molecular drivers through regulatory inputs knock-out/knock-in simulations. 
 
 ## Contributors
 
