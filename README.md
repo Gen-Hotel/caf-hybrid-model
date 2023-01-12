@@ -8,7 +8,7 @@ Please refer to the latter for all information concerning the methods used.
 
 ## Description
 
-This repository includes throroughly annotated notebooks and scripts for the different parts of 
+This repository includes thoroughly annotated Jupyter notebooks and R scripts covering:
 
 - Differential Expression Analysis;
 - Framework for hybrid modeling;
