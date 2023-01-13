@@ -14,7 +14,7 @@ This repository includes thoroughly annotated Jupyter notebooks and R scripts co
 
 2. Framework for generating a hybrid model coupling the asynchronous generic CAF regulatory Boolean network with MitoCore's constraint-based reconstruction of human central metabolism as follows:
 
-<center><img src="Framework_for_hybrid_modeling/workflow.png" alt="what image shows" height="540" width="600"></center>
+<img src="Framework_for_hybrid_modeling/workflow.png" width="540" height="600">
 
 3. Identification of regulatory molecular drivers of reverse Warburg effect in breast CAFs through regulatory inputs knock-out/knock-in simulations. 
 
