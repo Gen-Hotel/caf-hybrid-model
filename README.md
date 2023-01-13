@@ -22,5 +22,6 @@ This repository includes thoroughly annotated Jupyter notebooks and R scripts co
 ## Contributors
 
 - Sahar Aghakhani, [sahar.aghakhani@univ-evry.fr](sahar.aghakhani@univ-evry.fr);
+- Sacha E Silva-Saffar [sacha.e-silva-saffar@universite-paris-saclay.fr](sacha.e-silva-saffar@universite-paris-saclay.fr)
 - Sylvain Soliman, [sylvain.soliman@inria.fr](sylvain.soliman@inria.fr);
 - Anna Niarakis, [anna.niaraki@univ-evry.fr](anna.niaraki@univ-evry.fr).
