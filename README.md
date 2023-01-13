@@ -16,6 +16,8 @@ This repository includes thoroughly annotated Jupyter notebooks and R scripts co
 
 <img src="Framework_for_hybrid_modeling/workflow.png" width="540" height="600" class="center">
 
+<p style="text-align:center;"><img src="Framework_for_hybrid_modeling/workflow.png" width="540" height="600"  alt="Logo"></p>
+
 3. Identification of regulatory molecular drivers of reverse Warburg effect in breast CAFs through regulatory inputs knock-out/knock-in simulations. 
 
 
