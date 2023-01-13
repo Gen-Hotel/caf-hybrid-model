@@ -11,7 +11,10 @@ Please refer to the latter for all information concerning the methods used.
 This repository includes thoroughly annotated Jupyter notebooks and R scripts covering:
 
 - Differential expression analysis of CAFs-S1 vs. CAFs-S4 RNA-Seq data to extract breast CAF-specific initial conditions;
-- Framework for generating a hybrid model coupling an asynchronous regulatory Boolean network with a constraint-based reconstruction of human central metabolism;
+- Framework for generating a hybrid model coupling an asynchronous regulatory Boolean network with a constraint-based reconstruction of human central metabolism as follows:
+
+![image](Framework_for_hybrid_modeling/workflow.png)
+
 - Identification of regulatory molecular drivers through regulatory inputs knock-out/knock-in simulations. 
 
 ## Contributors
