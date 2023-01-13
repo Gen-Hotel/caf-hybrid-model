@@ -11,9 +11,10 @@ Please refer to the latter for all information concerning the methods used.
 This repository includes thoroughly annotated Jupyter notebooks and R scripts covering:
 
 1. Differential expression analysis of CAFs-S1 vs. CAFs-S4 RNA-Seq data ([EGAD00001003808](https://ega-archive.org/datasets/EGAD00001003808)) to extract breast CAF-specific initial conditions;
+
 2. Framework for generating a hybrid model coupling the asynchronous generic CAF regulatory Boolean network with MitoCore's constraint-based reconstruction of human central metabolism as follows:
 
-![image](Framework_for_hybrid_modeling/workflow.png)
+![image](Framework_for_hybrid_modeling/workflow.png =100x)
 
 3. Identification of regulatory molecular drivers of reverse Warburg effect in breast CAFs through regulatory inputs knock-out/knock-in simulations. 
 
