@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository summarizes all the codes and data used to generate the results presented in A large-scale hybrid model to adress reverse Warburg effect in breast cancer-associated fibroblasts. 
+This repository summarizes all the codes and data used to generate the results presented in "A large-scale hybrid model to adress reverse Warburg effect in breast cancer-associated fibroblasts". 
 The detailed framework is described in [Metabolic reprogramming in Rheumatoid Arthritis Synovial Fibroblasts: A hybrid modeling approach](https://doi.org/10.1371/journal.pcbi.1010408). Please refer to the latter for all information concerning the methods used.
 
 
